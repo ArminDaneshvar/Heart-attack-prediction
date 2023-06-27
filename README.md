@@ -1,4 +1,4 @@
-### Does it have a risk of a heart attack or a high chance?! The data is stored in the 'heart.csv' file.
+### Prediction of the a risk of a heart attack or a high chance?! The data is stored in the 'Pinformation.csv' file.
 ***
 #### Age of the individual (Age)
 #### Gender (Sex)
